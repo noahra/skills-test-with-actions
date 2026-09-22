@@ -22,7 +22,7 @@ jobs:
     with:
       exercise-title: "Test with Actions"
       intro-message: "Protect your code with automated unit tests and coverage reports."
-  
+
   post_next_step_content:
     name: Post next step content
     runs-on: ubuntu-latest

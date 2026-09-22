@@ -60,7 +60,7 @@ jobs:
         uses: skills/action-keyphrase-checker@v1
         with:
           text-file: tests/calculations_test.py
-          keyphrase: '# def test_get_nth_fibonacci_ten'
+          keyphrase: "# def test_get_nth_fibonacci_ten"
           maximum-occurrences: 0
           minimum-occurrences: 0
           case-sensitive: false
